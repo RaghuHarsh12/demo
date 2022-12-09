@@ -1,0 +1,2 @@
+theplayer
+    my name
