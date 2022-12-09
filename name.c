@@ -1,2 +1,2 @@
 theplayer
-    my name
+    my
